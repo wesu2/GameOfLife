@@ -1,4 +1,3 @@
-import processing.core.PApplet;
 import de.bezier.guido.*;
 
 public class Sketch extends PApplet {
